@@ -1,2 +1,2 @@
 # olio-ohjelmointi
-Oskarin ja Villen koodaukset:-)
+Testattavat koodit (ei valmiita)
